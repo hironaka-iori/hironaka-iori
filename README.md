@@ -1,4 +1,4 @@
-# David Huang (一生之敵六兆年)
+# HUANG Zichun (一生之敵六兆年)
 
 High school student and developer at World Foreign Language Academy in Shanghai, China. Member of the GitHub Developer Program with a focus on web development and artificial intelligence applications.
 
