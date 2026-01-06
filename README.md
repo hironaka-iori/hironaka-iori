@@ -36,10 +36,5 @@ A customizable new tab extension for Chromium-based browsers, developed with Jav
 - **Bilibili**: [一生之敵六兆年](https://space.bilibili.com/1071326933)
 - **WeChat**: yszdlzn
 
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidhuangsh-lgtm&show_icons=true&theme=default)
-
----
 
 Open to collaboration on innovative projects in AI, web development, and educational technology.
