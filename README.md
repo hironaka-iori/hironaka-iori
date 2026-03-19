@@ -32,7 +32,7 @@ A customizable new tab extension for Chromium-based browsers, developed with Jav
 ## Connect With Me
 
 - **X (Twitter)**: [@yszdlzn](https://x.com/yszdlzn)
-- **YouTube**: [一生之敵六兆年](https://www.youtube.com/@yishengzhidiliuzhaonian)
+- **YouTube**: [一生之敵六兆年](https://www.youtube.com/@yszdlzn)
 - **Bilibili**: [一生之敵六兆年](https://space.bilibili.com/1071326933)
 - **WeChat**: yszdlzn
 
