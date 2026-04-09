@@ -34,7 +34,7 @@ A customizable new tab extension for Chromium-based browsers, developed with Jav
 - **X (Twitter)**: [@hironakaiori](https://x.com/hironakaiori)
 - **YouTube**: [広中依緒璃](https://www.youtube.com/@hironskaiori)
 - **Bilibili**: [広中依緒璃](https://space.bilibili.com/1071326933)
-- **WeChat**: yszdlzn
+- **WeChat**: hironakaiori
 
 
 Open to collaboration on innovative projects in AI, web development, and educational technology.
