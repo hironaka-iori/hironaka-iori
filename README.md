@@ -1,6 +1,7 @@
 # 広中依緒璃
 
 High school student and developer at World Foreign Language Academy in Shanghai, China. Member of the GitHub Developer Program with a focus on web development and artificial intelligence applications.
+
 Male to Female.
 
 ## Education
