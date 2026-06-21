@@ -12,24 +12,9 @@ Shanghai, China
 
 ## Affiliations
 
-- Member of [Computerization](https://github.com/Computerization)
+- Member of [Computerization](https://github.com/Computerization), [Computerization '25 Core](https://github.com/orgs/Computerization/teams/computerization-25)
 - Member and co-founder of [WFLA AI Lab](https://github.com/WFLA-AI-Lab)
 - GitHub Developer Program Member
-
-## Featured Projects
-
-### [BadmintonPoseAI](https://github.com/davidhuangsh-lgtm/BadmintonPoseAI)
-An efficient local attention-enhanced real-time human pose estimation and multi-player motion analysis framework based on YOLOv8 for badminton-specific kinematic understanding. Built with Python and advanced computer vision techniques.
-
-### [NewTab](https://github.com/davidhuangsh-lgtm/newtab)
-A customizable new tab extension for Chromium-based browsers, developed with JavaScript to enhance browser productivity and user experience.
-
-## Technical Interests
-
-- Artificial Intelligence and Machine Learning
-- Computer Vision and Human Pose Estimation
-- Web Development and Browser Extensions
-- Full-stack Development
 
 ## Connect With Me
 
