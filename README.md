@@ -12,9 +12,8 @@ Shanghai, China
 
 ## Affiliations
 
-- Member of [Computerization](https://github.com/Computerization), [Computerization '25 Core](https://github.com/orgs/Computerization/teams/computerization-25)
-- Member and co-founder of [WFLA AI Lab](https://github.com/WFLA-AI-Lab)
-- GitHub Developer Program Member
+- Member of [Computerization](https://github.com/Computerization), [Computerization '25 Core](https://github.com/orgs/Computerization/teams/computerization-25);
+- Member and co-founder of [WFLA AI Lab](https://github.com/WFLA-AI-Lab).
 
 ## Connect With Me
 
