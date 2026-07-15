@@ -4,9 +4,10 @@ Currently a senior high school student. Male to Female. Born and brought up in S
 
 ## Education
 
-**Shanghai World Foreign Language Academy** (Sept 2024 through July 2027)
-Senior High School Student, International Baccalaureate® (IB) Diploma Programme (DP)
-Shanghai, China
+**Shanghai World Foreign Language Academy** \
+Sept 2024 through July 2027 \
+Senior High School Student, International Baccalaureate® (IB) Diploma Programme (DP) \
+Shanghai, China 
 
 ## Affiliations
 
