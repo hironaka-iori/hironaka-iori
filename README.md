@@ -1,13 +1,6 @@
 # 広中依緒璃
 
-Currently a senior high school student. Male to Female. Born and brought up in Shanghai.
-
-## Education
-
-**Shanghai World Foreign Language Academy** \
-Sept 2024 through July 2027 \
-Senior High School Student, International Baccalaureate® (IB) Diploma Programme (DP) \
-Shanghai, China 
+Currently a senior high school student. Male to Female.
 
 ## Affiliations
 
@@ -18,6 +11,3 @@ Shanghai, China
 
 - **X (Twitter)**: [@hironakaiori](https://x.com/hironakaiori)
 - **Bilibili**: [広中依緒璃](https://space.bilibili.com/1071326933)
-
-
-IB SUCKS.
